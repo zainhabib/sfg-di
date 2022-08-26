@@ -62,7 +62,7 @@ public class SfgDiApplication {
 
 		/**
 		 * Env var in edit configuration. guru.username in properties file will be GURU_USERNAME when setup in env
-		 * Command line argument takes precedence
+		 * Command line argument takes precedence (--guru.password=PwdFromCmdLine --guru.username=UserFromCmdLine)
 		 */
 	}
 
